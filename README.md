@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LoloTheMagician
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning JavaScript, Haskell and C
+- 🌱 I’m currently learning JavaScript, python and Unreal Engine
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : elperiplodelolo@gmail.com
 
